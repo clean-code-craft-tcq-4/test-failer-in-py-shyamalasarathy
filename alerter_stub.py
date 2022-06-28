@@ -1,4 +1,3 @@
-
 Threshold_Celcius = 150
 
 def network_alert_stub(celcius):
